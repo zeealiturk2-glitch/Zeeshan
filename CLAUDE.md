@@ -1,32 +1,47 @@
 # CLAUDE.md
 
-This repository stores business documents (quotations), not code.
+## Who I am
 
-## Company
+- Name: **Zeeshan Ali** (spelled Z-E-E-S-H-A-N)
+- Job: **Maintenance Manager at Hamad**
+- Location: Saudi Arabia (Eastern Province)
+- I write to Claude in simple English. Reply in short, clear English with
+  steps and lists, and no difficult words.
 
-- MOFCO Group, P.O. Box 15, Alkhobar 31952, Saudi Arabia
-- Tel: +966-13-8021397 · www.mofcogroup.com
+## What I do
 
-## Work
+As maintenance manager I am the **client side**: contractors send me offers,
+and I review, compare, approve and follow up on their work. Typical tasks:
 
-Fire fighting network repair works: excavation, asphalt reinstatement, HDPE pipe
-and fitting repairs, and pressure gauge supply and installation.
+- Review contractor quotations: check quantities, unit prices, totals,
+  currency, VAT (15% in Saudi Arabia), warranty and payment terms
+- Compare offers from different contractors before approval
+- Write emails and letters to contractors (clarifications, approvals,
+  rejections, follow-ups)
+- Plan and track maintenance work (preventive and corrective)
+- Prepare short reports for management
 
-## Quotations
+## Contractors
 
-- Reference format: `RMC-HM-YYYY-NNNN` (for example `RMC-HM-2026-1644`)
-- Date format: DD/MM/YY
-- Table columns: S/N, Description, Unit, QTY, Unit Price, Total
-- Units: LM (linear metre), M2 (square metre), PC (piece)
-- End with "Total Amount of Works", then a Technical Specifications & Payment
-  Terms section and the warranty (one year from the date of handover)
-- Approved material suppliers: Al-Wasaiel or Al-Munif; pressure gauges are WIKA
-- Language: English; keep descriptions formal and technical
+### MOFCO Group (contractor)
 
-## Working rules
+- P.O. Box 15, Alkhobar 31952 · Tel: +966-13-8021397 · www.mofcogroup.com
+- Scope seen so far: fire fighting network repair works (excavation, asphalt
+  reinstatement, HDPE pipe and fitting repairs, WIKA pressure gauges)
+- Their quotation reference format: `RMC-HM-YYYY-NNNN`, dates DD/MM/YY
+- Approved material suppliers named in their offers: Al-Wasaiel, Al-Munif
 
-- `Fire_Fighting_Network_Repair_Works_with_Warranty.pdf` is the reference
-  template. Use it as the model for new quotations; do not overwrite it.
-- Save each new quotation as a new PDF named after the project and reference number.
-- Check that every line total equals QTY × Unit Price and that the grand total
-  is the sum of the lines.
+## Files in this repository
+
+- `Fire_Fighting_Network_Repair_Works_with_Warranty.pdf`: MOFCO quotation
+  `RMC-HM-2026-1644` (06/10/26), project "kadi mall", total 75,782. It has no
+  currency or VAT shown and its warranty text is jumbled. Never overwrite
+  original contractor documents; save any new version as a new file.
+
+## How to help me
+
+- When I share a quotation: check every line total (QTY × Unit Price) and the
+  grand total, then list missing items (currency, VAT, validity, payment
+  terms, warranty, schedule) and anything unclear or overpriced.
+- When I ask for an email or letter: write it formal and polite, ready to send.
+- Keep answers short. Ask me before guessing facts about my work.
