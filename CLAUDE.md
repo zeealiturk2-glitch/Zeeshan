@@ -3,7 +3,7 @@
 ## Who I am
 
 - Name: **Zeeshan Ali** (spelled Z-E-E-S-H-A-N)
-- Job: **Maintenance Manager at Hamad**
+- Job: **Maintenance Manager at Hamat**
 - Location: Saudi Arabia (Eastern Province)
 - I write to Claude in simple English. Reply in short, clear English with
   steps and lists, and no difficult words.

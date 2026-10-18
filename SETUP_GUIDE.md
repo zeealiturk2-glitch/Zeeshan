@@ -1,6 +1,6 @@
 # Claude Setup Guide for Zeeshan Ali
 
-Maintenance Manager at Hamad. Follow the steps in order; each takes a few minutes.
+Maintenance Manager at Hamat. Follow the steps in order; each takes a few minutes.
 Menu names can change a little between app versions. If you cannot find one,
 look in **Settings** or ask Claude "where is ___ in settings?".
 
@@ -21,7 +21,7 @@ Zeeshan
 **Personal preferences**: copy and paste this whole box:
 
 ```
-My name is Zeeshan Ali. I am the Maintenance Manager at Hamad in Saudi Arabia.
+My name is Zeeshan Ali. I am the Maintenance Manager at Hamat in Saudi Arabia.
 I am on the client side: contractors (for example MOFCO Group) send me
 quotations, and I review, compare, approve and follow up on their work.
 
@@ -40,7 +40,7 @@ Claude will then remember your work across chats.
 
 ## Step 3: Make a Project for your work
 
-On claude.ai click **Projects → New project**. Name it **Maintenance – Hamad**.
+On claude.ai click **Projects → New project**. Name it **Maintenance – Hamat**.
 
 - **Project instructions**: paste the same text from Step 1.
 - **Project files**: upload documents you use often (contractor quotations,
